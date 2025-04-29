@@ -1,0 +1,170 @@
+body {
+    background: #160e73;
+    background: radial-gradient(circle, #160e73 0%, #1e0b24 100%);
+    margin: 0;
+    color: white;
+}
+
+.top-container {
+    color: white;
+    background-color: #0000007e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    width: 100%;
+    box-shadow: 0 2px 4px 0 #00000033;
+}
+
+.topbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.topbar a {
+    color: white;
+    background: none;
+    border: none;
+    min-width: 50px;
+    font-size: x-large;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding: 10px;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}
+#name-logo a {
+    color: white;
+    text-decoration: none;
+}
+
+.topbar a:hover {
+    background-color: #ffffff28;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+    background-color: #0000004b;
+    min-height: 20px;
+    width: 60%;
+    border-radius: 30px;
+    padding: 50px;
+}
+
+.college {
+    display: flex;
+}
+
+.college div {
+    display: flex;
+    margin: 0 4px;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+
+.content h1 {
+    margin-top: 0;
+    margin-bottom: 35px;
+    text-decoration: underline;
+}
+
+.content h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.content p {
+    text-align:center;
+    font-size: 25px;
+    line-height: 1.5;
+}
+
+.content .images {
+    display:flex;
+}
+
+.images img{
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+}
+
+.projects {
+    display: flex;
+    align-items: center;
+}
+
+.projects p {
+    color: white;
+    width: 60%;
+    margin: 20px;
+}
+
+.projects .links {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.projects .links a {
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #6d4672;
+    text-decoration: none;
+}
+
+.projects a:hover {
+    background-color: #464099;
+}
+
+.pdf-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 75px;
+}
+
+.pdf {
+    width: 70%;
+    height: 1100px;
+    border-radius: 20px;
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.footer a {
+    color: #9bb6ce;
+}
