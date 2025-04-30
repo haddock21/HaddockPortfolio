@@ -103,12 +103,13 @@ h2{
 
 .content .images {
     display:flex;
+    width: 100%;
+    justify-content: center;
 }
 
 .images img{
-    width: 150px;
-    height: 150px;
-    margin: 25px;
+    width: 20%;
+    margin: 10px;
 }
 
 .projects {
