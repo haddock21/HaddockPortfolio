@@ -1,0 +1,205 @@
+[
+  {
+    "tool": "square",
+    "x0": 100,
+    "y0": 260.08749771118164,
+    "x1": 292,
+    "y1": 181.08749771118164,
+    "lineColor": "#f40b0b",
+    "fillColor": "#000000",
+    "strokeWidth": 10,
+    "isCircle": false,
+    "isSquare": false,
+    "rotation": 0,
+    "selected": false
+  },
+  {
+    "tool": "square",
+    "x0": 365,
+    "y0": 136.08749771118164,
+    "x1": 471,
+    "y1": 215.08749771118164,
+    "lineColor": "#f40b0b",
+    "fillColor": "#000000",
+    "strokeWidth": 10,
+    "isCircle": false,
+    "isSquare": false,
+    "rotation": 0,
+    "selected": false
+  },
+  {
+    "tool": "circle",
+    "x0": 666,
+    "y0": 122.08749771118164,
+    "x1": 733,
+    "y1": 184.08749771118164,
+    "lineColor": "#00ff4c",
+    "fillColor": "#4c00ff",
+    "strokeWidth": 1,
+    "isCircle": false,
+    "isSquare": false,
+    "rotation": 1.3533912476823537,
+    "selected": false
+  },
+  {
+    "tool": "circle",
+    "x0": 869,
+    "y0": 142.08749771118164,
+    "x1": 918,
+    "y1": 201.08749771118164,
+    "lineColor": "#00ff4c",
+    "fillColor": "#4c00ff",
+    "strokeWidth": 1,
+    "isCircle": true,
+    "isSquare": false,
+    "rotation": 0,
+    "selected": false
+  },
+  {
+    "tool": "square",
+    "x0": 139,
+    "y0": 313.08749771118164,
+    "x1": 297,
+    "y1": 462.08749771118164,
+    "lineColor": "#00ff4c",
+    "fillColor": "#4c00ff",
+    "strokeWidth": 1,
+    "isCircle": false,
+    "isSquare": true,
+    "rotation": 1.099883666580835,
+    "selected": false
+  },
+  {
+    "tool": "triangle",
+    "x0": 401,
+    "y0": 484.08749771118164,
+    "x1": 577,
+    "y1": 334.08749771118164,
+    "lineColor": "#00ff4c",
+    "fillColor": "#4c00ff",
+    "strokeWidth": 1,
+    "isCircle": false,
+    "isSquare": false,
+    "rotation": -0.07304056530311942,
+    "selected": false
+  },
+  {
+    "tool": "polygon",
+    "x0": 721,
+    "y0": 480.08749771118164,
+    "x1": 769,
+    "y1": 407.08749771118164,
+    "lineColor": "#00ff4c",
+    "fillColor": "#4c00ff",
+    "strokeWidth": 1,
+    "isCircle": false,
+    "isSquare": false,
+    "rotation": 0.9036230955388476,
+    "selected": false
+  },
+  {
+    "tool": "poly-line",
+    "points": [
+      {
+        "x": 866,
+        "y": 436.08749771118164
+      },
+      {
+        "x": 963,
+        "y": 330.08749771118164
+      },
+      {
+        "x": 980,
+        "y": 478.08749771118164
+      },
+      {
+        "x": 1100,
+        "y": 296.08749771118164
+      },
+      {
+        "x": 1101,
+        "y": 525.0874977111816
+      },
+      {
+        "x": 1265,
+        "y": 300.08749771118164
+      },
+      {
+        "x": 1290,
+        "y": 544.0874977111816
+      },
+      {
+        "x": 1378,
+        "y": 344.08749771118164
+      },
+      {
+        "x": 1378,
+        "y": 344.08749771118164
+      }
+    ],
+    "lineColor": "#00ff4c",
+    "fillColor": "#4c00ff",
+    "strokeWidth": 1,
+    "selected": false
+  },
+  {
+    "tool": "curve",
+    "points": [
+      {
+        "x": 140,
+        "y": 688.0874977111816
+      },
+      {
+        "x": 238,
+        "y": 571.0874977111816
+      },
+      {
+        "x": 327,
+        "y": 697.0874977111816
+      },
+      {
+        "x": 444,
+        "y": 553.0874977111816
+      },
+      {
+        "x": 516,
+        "y": 674.0874977111816
+      },
+      {
+        "x": 137,
+        "y": 545.0874977111816
+      },
+      {
+        "x": 358,
+        "y": 688.0874977111816
+      },
+      {
+        "x": 358,
+        "y": 688.0874977111816
+      },
+      {
+        "x": 358,
+        "y": 688.0874977111816
+      }
+    ],
+    "lineColor": "#00ff4c",
+    "fillColor": "#4c00ff",
+    "strokeWidth": 1,
+    "selected": false,
+    "rotation": -0.01867653901916322
+  },
+  {
+    "tool": "line",
+    "x0": 1082,
+    "y0": 112.08749771118164,
+    "x1": 1301,
+    "y1": 186.08749771118164,
+    "lineColor": "#00ff4c",
+    "fillColor": "#4c00ff",
+    "strokeWidth": 1,
+    "isCircle": false,
+    "isSquare": false,
+    "rotation": 0,
+    "selected": false
+  }
+]
